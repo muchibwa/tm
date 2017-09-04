@@ -1,0 +1,27 @@
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\obj\Debug\CsvReader.Console.csprojResolveAssemblyReference.cache
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\data.csv
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Console.exe.config
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Console.exe
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Console.pdb
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Model.dll
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Reader.dll
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Interface.dll
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Model.pdb
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Reader.pdb
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Interface.pdb
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\obj\Debug\CsvReader.Console.exe
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\obj\Debug\CsvReader.Console.pdb
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Implementation.dll
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Implementation.pdb
+C:\Users\tpm1009\Documents\Visual Studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Config.dll
+C:\Users\tpm1009\Documents\Visual Studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Config.pdb
+C:\Users\tpm1009\Documents\Visual Studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Write.Output.dll
+C:\Users\tpm1009\Documents\Visual Studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Write.Output.pdb
+C:\Users\tpm1009\Documents\Visual Studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Run.dll
+C:\Users\tpm1009\Documents\Visual Studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Run.pdb
+D:\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Console.exe.config
+D:\CsvReader\CsvReader.Console\obj\Debug\CsvReader.Console.exe
+D:\CsvReader\CsvReader.Console\obj\Debug\CsvReader.Console.pdb
+C:\Development\CsvReader\CsvReader.Console\bin\Debug\CsvReader.Console.exe.config
+C:\Development\CsvReader\CsvReader.Console\obj\Debug\CsvReader.Console.exe
+C:\Development\CsvReader\CsvReader.Console\obj\Debug\CsvReader.Console.pdb

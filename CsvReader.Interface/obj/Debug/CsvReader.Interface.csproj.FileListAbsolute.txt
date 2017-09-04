@@ -1,0 +1,7 @@
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Interface\bin\Debug\CsvReader.Interface.dll
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Interface\bin\Debug\CsvReader.Interface.pdb
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Interface\bin\Debug\CsvReader.Model.dll
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Interface\bin\Debug\CsvReader.Model.pdb
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Interface\obj\Debug\CsvReader.Interface.csprojResolveAssemblyReference.cache
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Interface\obj\Debug\CsvReader.Interface.dll
+c:\users\tpm1009\documents\visual studio 2015\Projects\Dapper_Examples\CsvReader\CsvReader.Interface\obj\Debug\CsvReader.Interface.pdb
